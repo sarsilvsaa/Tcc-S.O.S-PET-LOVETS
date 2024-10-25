@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293076145285",
+    "project_id": "bdtcc-e0559",
+    "storage_bucket": "bdtcc-e0559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293076145285:android:f499d48f54fe675c3545ec",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZA7vx0aFosAGg-YAolAKKnk4_NornOdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
