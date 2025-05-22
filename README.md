@@ -1,24 +1,36 @@
-# hello_world
+# 🐾 S.O.S PET LOVETS
+S.O.S PET LOVETS é um aplicativo desenvolvido em Flutter com o objetivo de auxiliar tutores de animais de estimação a gerenciar cuidados essenciais, como agendamento de vacinas, consultas veterinárias diretamente com os cuidados no aplicativo. Este projeto foi criado como Trabalho de Conclusão de Curso (TCC) por Jean Carlos e Sarah Cardoso, alunos da ETEC POLIVALENTE, em 2023.
 
-A new Flutter project created with https://flutlab.io
+## Funcionalidades
 
-## Getting Started
+- Cadastro de Pets: Registre informações detalhadas sobre seus animais, incluindo nome, raça, idade e foto.
+- Agenda de Cuidados: Acompanhe vacinas, consultas e outros compromissos importantes.
+- Notificações: Receba lembretes para não esquecer dos cuidados com seus pets ou lembrete dos dias que o cuidador irá.
 
-This project is a starting point for a Flutter application.
+## Tecnologias Utilizadas
+- Flutter: Framework de desenvolvimento de aplicativos multiplataforma.
+- Dart: Linguagem de programação utilizada com Flutter.
+- Firebase: Backend para autenticação, banco de dados em tempo real e notificações.
+- Material Design: Interface moderna e intuitiva.
 
-A few resources to get you started if this is your first Flutter project:
+## Como Executar o Projeto
+Pré-requisitos
+Flutter SDK instalado. Instale o Flutter
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+Conta no Firebase (opcional, se desejar utilizar funcionalidades de backend).
+## Passos para Execução
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone o repositório:
+git clone https://github.com/sarsilvsaa/Tcc-S.O.S-PET-LOVETS.git
+cd Tcc-S.O.S-PET-LOVETS
 
-## Getting Started: FlutLab - Flutter Online IDE
+Instale as dependências:
+flutter pub get
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
+Execute o aplicativo:
 
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
+flutter run
+
+# 👥 Autores
+Jean Carlos Galdino– Desenvolvedor Flutter
+Sarah Cardoso da Silva – Desenvolvedora Flutter
